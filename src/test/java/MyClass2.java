@@ -6,7 +6,7 @@ public class MyClass2 {
 		System.out.println("Bye");
 		System.out.println("HYYYYY");
 		System.out.println("Sheela   ");
-		System.out.println("pineapple");
+		System.out.println("pineapple  ");
 	}
 
 }

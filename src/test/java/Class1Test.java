@@ -4,7 +4,7 @@ public class Class1Test {
 
 	@Test
 	public void t1() {
-		System.out.println("TestYantra ");
+		System.out.println("TestYantra");
 
 	}
 

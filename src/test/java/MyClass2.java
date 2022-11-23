@@ -1,7 +1,9 @@
+import org.testng.annotations.Test;
 
 public class MyClass2 {
 
-	public static void main(String[] args) {
+	@Test
+	public void tc2(){
 		System.out.println("Hi Mr.Saxena here");
 		System.out.println("Bye");
 	}

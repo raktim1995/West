@@ -1,7 +1,9 @@
+import org.testng.annotations.Test;
 
 public class Class1 {
 
-	public static void main(String[] args) {
+	@Test
+	public void t1() {
 		System.out.println("TestYantra ");
 
 	}
